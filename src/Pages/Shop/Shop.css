@@ -44,7 +44,7 @@
 .addToCartBtn {
   background-color: transparent;
   border: 2px solid rgb(19, 19, 19);
-  min-width: 100%;
+  width: 100px;
   padding: 5px 10px;
   border-radius: 15px;
 }
