@@ -11,6 +11,7 @@ const Food = (props) => {
         </p>
         <p>${price}</p>
       </div>
+      <button className="addToCartBtn">Add to Cart</button>
     </div>
   );
 };
